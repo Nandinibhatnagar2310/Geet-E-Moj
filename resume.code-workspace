@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../india_project/resume"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../java3rdyearprograms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "music player project"
+	}
+}
